@@ -19,8 +19,4 @@ Apaixonado por aprender e criar soluções web, atualmente focando em React, Nod
 
 ## Skills
 
-Javascript icon Typescript icon React icon NextJS icon Redux icon Jest icon SASS icon MUI (Material UI) icon HTML5 icon CSS3 icon Markdown icon
-
-NodeJS icon Firebase icon MongoDB icon MySQL icon PostgreSQL icon
-
-Linux icon Git icon GitHub icon Figma icon Bitbucket icon Gitlab icon Jira icon Yarn icon
+<img align="center" alt="Typescript icon" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg" style="max-width: 100%;">
