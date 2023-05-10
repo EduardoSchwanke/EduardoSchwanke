@@ -24,3 +24,5 @@ Apaixonado por aprender e criar soluções web, atualmente focando em React, Nod
 <a href="https://nextjs.org/" rel="nofollow"> <img align="center" alt="NextJS icon" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow"> <img align="center" alt="HTML5 icon" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" style="max-width: 100%;"> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"> <img align="center" alt="CSS3 icon" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" style="max-width: 100%;"> </a>
+
+<img align="center" alt="GitHub icon" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" style="max-width: 100%;">
