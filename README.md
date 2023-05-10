@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there Eduardo Schwanke 👋
 
 <!--
 **EduardoSchwanke/EduardoSchwanke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Apaixonado por aprender e criar soluções web, atualmente focando em React, Node e Typescript. ;)
+
+## Skills
+
+Javascript icon Typescript icon React icon NextJS icon Redux icon Jest icon SASS icon MUI (Material UI) icon HTML5 icon CSS3 icon Markdown icon
+
+NodeJS icon Firebase icon MongoDB icon MySQL icon PostgreSQL icon
+
+Linux icon Git icon GitHub icon Figma icon Bitbucket icon Gitlab icon Jira icon Yarn icon
